@@ -1,6 +1,13 @@
 # HYDROFLOW AI – Hydraulic Engineering Calculator
 
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/SATHISH-js/hydroflow-ai)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/SATHISH-js/hydroflow-ai)
+
 A modern, responsive, and lightweight web application designed for civil and mechanical engineering students to perform fundamental hydraulic network calculations with step-by-step mathematical derivations.
+
+* **GitHub Repository:** [https://github.com/SATHISH-js/hydroflow-ai](https://github.com/SATHISH-js/hydroflow-ai)
+* **1-Click Live Deploy on Vercel:** [Deploy on Vercel](https://vercel.com/new/clone?repository-url=https://github.com/SATHISH-js/hydroflow-ai)
+* **Claim Temporary Deployment:** [Claim on Vercel](https://vercel.com/claim-deployment?code=55c7d9fa-78c1-4784-8a53-9f1493f225a5)
 
 ---
 
